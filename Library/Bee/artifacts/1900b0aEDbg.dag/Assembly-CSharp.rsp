@@ -362,6 +362,7 @@
 "Assets/Scripts/C03/StringFormatBasic.cs"
 "Assets/Scripts/C03/StringSearch.cs"
 "Assets/Scripts/C03/StringSlice.cs"
+"Assets/Scripts/C04/ArithmaticOperators.cs"
 "Assets/Scripts/Hello.cs"
 "Assets/Scripts/HellowWorld.cs"
 -langversion:9.0
